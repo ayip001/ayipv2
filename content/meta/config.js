@@ -1,32 +1,33 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteTitle: "Angus's Personal Site", // <title>
+  shortSiteTitle: "Angus Yip", // <title> ending for posts and pages
+  siteDescription: "It's my personal site.",
+  siteUrl: "https://ayip.io",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Angus Yip",
+  authorTwitterAccount: "proofofangus",
   // info
-  infoTitle: "greg lobinski",
-  infoTitleNote: "personal blog",
+  infoTitle: "Angus Yip",
+  infoTitleNote: "Personal site",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
-  manifestShortName: "PersonalBlog", // max 12 characters
+  manifestName: "Angus's Personal Site",
+  manifestShortName: "ayipv2", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "hi@ayip.io",
+  messengerLink: "https://m.facebook.com/messages/compose?ids=100003342485372",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/ayip001" },
+    { name: "twitter", url: "https://twitter.com/proofofangus" },
+    { name: "facebook", url: "http://facebook.com/ayip001" }
   ]
 };
