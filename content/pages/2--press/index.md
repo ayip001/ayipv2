@@ -9,7 +9,7 @@ Yip studied computer science and worked as a software engineer in Silicon Valley
 
 Recently, the economic growth in South East Asia and, of course, Yip's roots, were good enough reasons for him to participate in the SEA startup scene, beginning in the Philippines region and the blockchain consulting sector.
 
-Yip's first venture, Vagrant Limited, aims to help communities escape stagnacy by providing and advocating for innovation technologies.
+Yip's first venture, Vagrant Limited, aims to help communities escape stagnancy by providing and advocating for innovative technologies. Vagrant's first product is Blockchain by Vagrant, an ICO service company with an unimaginative name.
 
 ## Longer Bio
 
