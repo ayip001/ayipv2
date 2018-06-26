@@ -2,36 +2,18 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+Welcome to my personal site. It's a bit messy but please make yourself at home!
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+You'll find most of my work here like blogs, photography, and projects.
 
-### Standard features:
+### Little bit about myself:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+I was born and raised in Hong Kong, then went to finish high school and begin college in San Francisco.
 
-### Advanced features:
+After working as a fullstack software engineer in the Valley, **blockchain and entrepreneurship** had my attention, and are currently what my focus is at.
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
+## Credits where they are due:
 
-## Instructions
+This site is built using the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
 
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+The GitHub repo of this site can be found [here](https://github.com/ayip001/ayipv2).
