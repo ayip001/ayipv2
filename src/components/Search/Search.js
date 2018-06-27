@@ -82,6 +82,7 @@ const Search = props => {
 
   return (
     <div className={classes.search}>
+      TODO
       {algolia &&
         algolia.appId && (
           <InstantSearch
