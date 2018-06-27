@@ -13,7 +13,7 @@ module.exports = {
   authorTwitterAccount: "proofofangus",
   // info
   infoTitle: "Angus Yip",
-  infoTitleNote: "Your friend",
+  infoTitleNote: "🅱️ottom text",
   // manifest.json
   manifestName: "Angus's Personal Site",
   manifestShortName: "ayipv2", // max 12 characters
@@ -23,7 +23,7 @@ module.exports = {
   manifestDisplay: "standalone",
   // contact
   contactEmail: "hi@ayip.io",
-  messengerLink: "https://m.facebook.com/messages/compose?ids=100003342485372",
+  messengerLink: "https://web.facebook.com/messages/t/ayip001",
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/ayip001" },
