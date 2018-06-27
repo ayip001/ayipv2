@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-personal-blog",
-  "description": "A Gatsby starter for a personal blog",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
-  "repository": "https://github.com/greglobinski/gatsby-starter-personal-blog",
+  "name": "Angus's Personal Site",
+  "description": "It's my personal site.",
+  "author": "Angus Yip <hi@ayip.io>",
+  "repository": "https://github.com/ayip001/ayipv2",
   "version": "1.1.1",
   "license": "MIT",
   "scripts": {
