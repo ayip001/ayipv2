@@ -10,7 +10,7 @@ You'll find most of my work here like blogs, photography, and projects.
 
 I was born and raised in Hong Kong, then went to finish high school and begin college in San Francisco.
 
-After working as a fullstack software engineer in the Valley, **blockchain and entrepreneurship** had my attention, and are currently what my focus is at.
+After working as a fullstack software engineer in the Valley, **blockchain and entrepreneurship** had my attention, and are currently my focus.
 
 ## Credits where they are due:
 
