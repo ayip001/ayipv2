@@ -17,8 +17,4 @@ TODO
 
 ## High Resolution Pictures
 
-![edited2](./edited2_4473x4473.jpg)
-![casual1](./casual1_4473x4473.jpg)
-![edited1](./edited1_2985x2985.jpg)
-![formal1](./formal1_5504x8256.jpg)
-![speaking1](./speaking1_4288x2406.jpg)
+[Google Photos folder](https://photos.app.goo.gl/rC96xeBYhSRGuunt6)
