@@ -82,20 +82,8 @@ const Search = props => {
 
   return (
     <div className={classes.search}>
-      TODO
-      {algolia &&
-        algolia.appId && (
-          <InstantSearch
-            appId={algolia.appId}
-            apiKey={algolia.searchOnlyApiKey}
-            indexName={algolia.indexName}
-          >
-            <SearchBox translations={{ placeholder: "Search" }} />
-            <Stats />
-            <Hits hitComponent={Hit} />
-            <Pagination />
-          </InstantSearch>
-        )}
+      TODO;
+      Please use the filter function for now. (Home icon -> filter icon)
     </div>
   );
 };
