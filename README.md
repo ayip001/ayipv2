@@ -21,3 +21,9 @@ See the website in action » [ayip.io](https://ayip.io)
 - Commit your changes (git commit -am 'Add some fooBar')
 - Push to the branch (git push origin feature/fooBar)
 - Create a new Pull Request
+
+## Thanks to...
+
+- GatsbyJS
+- [This starter](https://github.com/greglobinski/gatsby-starter-personal-blog) by Greg Lobinski
+- GitHub pages
