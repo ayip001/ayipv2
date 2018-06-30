@@ -84,11 +84,11 @@ There is no guarantee that attending a hackathon will be as transformative to yo
 
 ### How to find a hackathon to attend?
 
-- [eventbrite.com](eventbrite.com)
-- [hackathon.com](hackathon.com)
-- [devpost.com](devpost.com)
-- [google.com](google.com)
-- [hackathon.io](hackathon.io)
+- [eventbrite.com](https://eventbrite.com)
+- [hackathon.com](https://hackathon.com)
+- [devpost.com](https://devpost.com)
+- [google.com](https://google.com)
+- [hackathon.io](https://hackathon.io)
 - Let me know if there’s more!
 
 ### What else to consider?
