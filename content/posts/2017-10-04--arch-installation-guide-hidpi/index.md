@@ -148,4 +148,4 @@ fi
 ![rice](./arch1.png)
 This guide is tested on the Dell XPS 15 2017.
 
-Courtesy of [Alan](github.com/alan23394)
+Courtesy of [Alan](https://github.com/alan23394)
