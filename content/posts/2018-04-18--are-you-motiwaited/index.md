@@ -2,7 +2,7 @@
 title: Are You Moti-wait-ed?
 subTitle: the dangers of motivational stories
 category: "Self"
-cover: motivate4.png
+cover: motivate4.jpg
 ---
 
 You’ll find no lack of motivational stories told through image macros or articles on social media.
@@ -35,7 +35,7 @@ If the jocks are out there for you because you are nerdy, you shouldn’t be dis
 
 Right?
 
-![motivate4](./motivate4.png)
+![motivate4](./motivate4.jpg)
 ###### @iambeautiful
 
 Congratulations, you’ve just been moti**wait**ed.

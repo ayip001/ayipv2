@@ -2,12 +2,12 @@
 title: How Hackathons Changed My Life
 subTitle: hackathon FAQs
 category: "Technology"
-cover: why3.png
+cover: why3.jpg
 ---
 
 Hi, today, I’d love to share my personal experience on hackathons, and clear up some of the confusion around them. Hopefully I can present a good enough case for some of you to consider attending your first one.
 
-![why1](./why1.png)
+![why1](./why1.jpg)
 ###### @cgower
 
 Before telling my story, you might want to know what a hackathon is:
@@ -44,7 +44,7 @@ Going to that first hackathon definitely marked the beginning of a new chapter o
 
 There is no guarantee that attending a hackathon will be as transformative to your life as it was for mine. I do guarantee, however, that you will gain considerable value from experiencing a hackathon at least once.
 
-![why2.png](./why2.png)
+![why2.jpg](./why2.jpg)
 ###### @xteemu
 
 ### Why hackathons?
@@ -100,7 +100,7 @@ There is no guarantee that attending a hackathon will be as transformative to yo
 - Sponsoring companies you want to check
 - Judges you want to meet
 
-![why3](./why3.png)
+![why3](./why3.jpg)
 ###### @cikstefan
 
 Now get out there and happy hacking!

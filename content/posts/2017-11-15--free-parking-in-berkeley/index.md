@@ -2,10 +2,10 @@
 title: Free Parking in Berkeley
 subTitle: ft. crime dataset
 category: "Data Science"
-cover: park5.png
+cover: park5.jpg
 ---
 
-![park1](./park1.png)
+![park1](./park1.jpg)
 ###### NOTE: THIS IS JUST A REFERENCE. PLEASE REFER TO THE STREET SIGNS FOR THE MOST ACCURATE INFORMATION. I’M NOT RESPONSIBLE IF YOU FOLLOWED THE GUIDE AND STILL GOT TICKED/BROKEN INTO
 
 Not too long ago, I went to spend a day with a friend who goes there. I pulled into a garage and left with a hole in my wallet and an ache in my heart.
@@ -14,7 +14,7 @@ Not too long ago, I went to spend a day with a friend who goes there. I pulled i
 
 That’s more than enough motivation for doing research before coming by again, so I did:
 
-![park2](./park2.png)
+![park2](./park2.jpg)
 
 Well damn it all guess I'll just have to take the BART.
 
@@ -29,7 +29,7 @@ After being the victim of the overall Berkeley parking situation all these times
 
 The solution for the first task was not so obvious. It took hours to find:
 
-![park3](./park3.png)
+![park3](./park3.jpg)
 
 The resources on that page nicely told me:
 
@@ -40,7 +40,7 @@ That’s half of my problem **(COST)** gone.
 
 The other half **(SAFETY)** is a more fundamental social issue that we, as a community, need to address. There are many things that we should do for a safer community.
 
-![park4](./park4.png)
+![park4](./park4.jpg)
 
 > “Though it may seem overwhelming, there are things you can do to manage crime in your community. You do not need to feel powerless against criminals. By taking action, you make positive changes in your neighborhood.”
 >  — [WikiHow](https://www.wikihow.com/Reduce-Crime-in-Your-Neighborhood)
@@ -51,7 +51,7 @@ I got the Berkeley crime dataset [here](https://data.cityofberkeley.info/Public-
 
 TODO: Make it self-updating and host it on a static page.
 
-![park5](./park5.png)
+![park5](./park5.jpg)
 
 Go bears!
 

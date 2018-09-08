@@ -2,10 +2,10 @@
 title: Free Parking in Berkeley ipynb Walkthrough
 subTitle: a step-by-step ipynb guide
 category: "Guide"
-cover: "parkguide1.png"
+cover: "parkguide1.jpg"
 ---
 
-<img src="./parkguide1.png"
+<img src="./parkguide1.jpg"
 />
 
 <h2>

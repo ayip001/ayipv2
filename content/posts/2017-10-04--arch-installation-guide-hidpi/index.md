@@ -2,7 +2,7 @@
 title: Arch Installation Guide
 subTitle: with HiDPI 4K UHD tips
 category: "Guide"
-cover: arch1.png
+cover: arch1.jpg
 ---
 
 ### 0. Prep
@@ -145,7 +145,7 @@ fi
 ```
 6. Reboot and spend the next week debugging and ricing your Linux :^)
 
-![rice](./arch1.png)
+![rice](./arch1.jpg)
 This guide is tested on the Dell XPS 15 2017.
 
 Courtesy of [Alan](https://github.com/alan23394)
